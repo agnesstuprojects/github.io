@@ -1,4 +1,8 @@
-Final Project
+Programming for Big Data Analysis Final Project Fall 2021
+
+St Thomas University
+
+Agnes Sithole and Hulnise Jean Francois
 
 Programming for Big Data Analysis Project for Agnes Sithole and Hulnise Jean Francois on Bitcoin in the cryptocurrency market
 
